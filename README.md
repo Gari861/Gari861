@@ -8,7 +8,7 @@
 - 👨‍💻 Programming student 
 - 🤝 Open to collaborating on programming projects
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Gari861">
