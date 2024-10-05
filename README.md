@@ -1,12 +1,22 @@
 <div align="center">
-<h1>Hi, I'm Matías Cabrera 👋</h1>
-<h3>A passionate developer from Argentina</h3>
+# Hi, I'm Matías Cabrera 👋  
+### A passionate developer from Argentina 🇦🇷
 </div>
 
 ## About Me
 
-- 👨‍💻 Programming student 
-- 🤝 Open to collaborating on programming projects
+💻 **Full Stack Developer in Progress** | **Backend Enthusiast**  
+📚 **Technician in Programming** - UTN San Francisco  
+🎓 Continuously learning and improving, driven by curiosity and self-motivation  
+🌱 Always up for a challenge and exploring the latest in technology
+
+---
+
+## Let’s Connect!
+
+🤝 Open to collaborations on programming projects  
+📧 You can reach me at [matiascabrera2527@gmail.com](mailto:matiascabrera2527@gmail.com)  
+🔗 Follow me on [LinkedIn](https://linkedin.com/in/matiascabreradev)  
 
 ## ⚙️ &nbsp;GitHub Analytics
 
