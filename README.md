@@ -9,8 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Full Stack Developer in Progress** | **Backend Enthusiast**  
-- 📚 **Technician in Programming** - UTN San Francisco  
+- 💻 **Full Stack Developer in Progress** | **Backend Enthusiast**
+- 👨‍🎓 **Technician in Programming** - UTN
+- 📚 **Currently Studying Systems Engineering** - UTN
 - 🎓 Continuously learning and improving, driven by curiosity and self-motivation  
 - 🌱 Always up for a challenge and exploring the latest in technology
 
